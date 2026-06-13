@@ -15,10 +15,10 @@ Para correr todas las especies: python3 run_zeeman.py --all
 Genera: Out_Zeeman: gráficas del desdoblamiento Zeeman por especie
 
 Librerías necesarias:
-Numpy
-Scipy
-Matplotlib
-Sympy
-Pandas
-Requests
+Numpy,
+Scipy,
+Matplotlib,
+Sympy,
+Pandas,
+Requests y 
 Numba
